@@ -3,7 +3,7 @@ title: "La Filosofía del Sueño Felino en Órbita"
 date: 2026-02-27T12:00:00+01:00
 draft: false
 categories: ["vida-gatuna"]
-image: "pending"
+image: "/images/posts/la-filosofia-del-sueno-felino-en-orbita/cover.svg"
 summary: "Dormir en gravedad cero no es un lujo, es una disciplina. Whiskers reflexiona sobre el arte de la siesta orbital y lo que las estrellas le susurran a un gato entre cabezadas."
 ---
 

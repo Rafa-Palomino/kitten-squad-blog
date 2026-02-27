@@ -3,7 +3,7 @@ title: "El Arte de la Siesta en Órbita: Guía Definitiva para el Descanso Felin
 date: 2026-02-27T12:00:00+01:00
 draft: false
 categories: ["vida-gatuna"]
-image: "pending"
+image: "/images/posts/el-arte-de-la-siesta-en-orbita/cover.svg"
 summary: "Dormir es una ciencia. Dormir en órbita geoestacionaria mientras la Tierra gira bajo tus patas es una obra de arte. Whiskers comparte su guía definitiva para la siesta perfecta en gravedad cero."
 ---
 
